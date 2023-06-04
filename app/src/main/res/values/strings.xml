@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeightOnPlanets</string>
+    <string name="kilonuz">Kilonuz</string>
+    <string name="jupiter">Jupiter</string>
+    <string name="mars">Mars</string>
+    <string name="venus">Venus</string>
+    <string name="gezegenlerde_ka_k_losun">GEZEGENLERDE KAÇ KİLOSUN</string>
+    <string name="sonu">Sonuç =</string>
+</resources>
